@@ -2,8 +2,9 @@
 
 
 
-- 🔭 Hoje trabalho como Analista de Suporte em uma empresa de software para administração pública
-- 🌱 Estou cursando Ciência de Dados e aprofundando o meu conhecimento através de cursos e projetos pessoais com Power BI
+- Hoje trabalho como Analista de Suporte em uma empresa de software para administração pública
+- Estou cursando Ciência de Dados e aprofundando o meu conhecimento através de cursos e projetos pessoais
+- Utilizo ferramentas como SQL, Power BI e Excel para extrair valor dos dados e auxiliar na tomada de decisões empresariais
 
 <div>
   
